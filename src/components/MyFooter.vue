@@ -16,10 +16,10 @@
             <div class="box">
                 <h5>Stay in touch with us</h5>
                 <div id="socialIcon">
-                    <a href=""><i class="fa-brands fa-twitter" style="color: black; width: 13px;"></i></a>
-                    <a href=""><i class="fa-brands fa-pinterest-p" style="color: black; width: 13px;"></i></a>
-                    <a href=""><i class="fa-brands fa-facebook-f" style="color: black; width: 13px;"></i></a>
-                    <a href=""><i class="fa-brands fa-linkedin-in" style="color: black; width: 13px;"></i></a>
+                    <a href="#"><i class="fa-brands fa-twitter" style="color: black; width: 13px;"></i></a>
+                    <a href="#"><i class="fa-brands fa-pinterest-p" style="color: black; width: 13px;"></i></a>
+                    <a href="#"><i class="fa-brands fa-facebook-f" style="color: black; width: 13px;"></i></a>
+                    <a href="#"><i class="fa-brands fa-linkedin-in" style="color: black; width: 13px;"></i></a>
                 </div>
             </div>
         </div>

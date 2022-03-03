@@ -1,12 +1,12 @@
 <template>
     <a href="#" id="greenButton">
-        <img src="../../assets/svg/svg-5.svg" alt="">
+        <img src="../../assets/svg/svg-6.svg" alt="">
     </a>
 </template>
 
 <script>
 export default {
-    name: "ArrowButton"
+    name: "ShopButton"
 }
 </script>
 
@@ -17,13 +17,13 @@ export default {
         position: absolute;
         width: 40px;
         height: 40px;
-        background-color: $Green;
-        text-align: center;
+        background-color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
 
         img{
-            transform: rotate(-90deg);
-            margin-top: 7px;
-            width: 65%;
+            width: 60%;
         }
     }
 

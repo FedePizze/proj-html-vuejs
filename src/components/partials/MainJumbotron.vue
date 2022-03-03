@@ -9,7 +9,7 @@
                 <div id="textBox">
                     <h1>Devotion that never <span>ends</span></h1>
                         <h6>Neque porrp quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adpisci velit, sed quia non numquam eius modi</h6>
-                        <a id="button" href="">READ MORE</a>
+                        <a href="#" id="button" >READ MORE</a>
                 </div>
             </div>
 

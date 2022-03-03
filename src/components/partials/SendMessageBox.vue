@@ -3,7 +3,7 @@
         <div id="sendBox">
             <h2>Want to work with us? Send un<span> a message!</span></h2>
             <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit labore totam optio consectetur, nam, natus aspernatur quam at perferendis ad voluptatibus tempore veritatis, doloremque consequatur culpa voluptatem possimus cum odio.</h5>
-            <a id="button">CONTACT</a>
+            <a href="#" id="button">CONTACT</a>
         </div>
     </div>
 </template>
@@ -61,6 +61,10 @@ export default {
                 color: black;
                 letter-spacing: 3px;
                 margin-top: 10px;
+            }
+
+            #button:hover{
+                background-color: $Brown;
             }
         }
     }

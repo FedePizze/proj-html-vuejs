@@ -27,7 +27,7 @@
             </div>
 
             <div class="elemento">
-                <div class="circle"><i class="fa-solid fa-cloud" style="font-size: 30px; color:#eb6950"></i></div>
+                <div class="circle"><i class="fa-solid fa-pen-fancy" style="font-size: 30px; color:#eb6950"></i></div>
                 <div class="textIcon">
                     <h4>So we draw along</h4>
                     <h5>Lorem ipsum dolor sit amet consectetur, adipisicing elit. A saepe itself.</h5>
