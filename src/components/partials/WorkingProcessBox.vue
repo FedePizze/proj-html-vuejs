@@ -49,7 +49,7 @@ export default {
     #workingProcess{
         width: 65%;
         margin: 0px auto;
-        padding: 50px 0px;
+        padding: 80px 0px;
         text-align: center;
 
         h2{
@@ -87,24 +87,11 @@ export default {
                     border-radius: 50%;
                     background-color: $LightBrown;
                     text-align: center;
-                    line-height: 100px;
+                    line-height: 110px;
                 }
 
                 .textIcon{
                     padding: 20px;
-
-                    h4{
-                        font-size: 17px;
-                        font-weight: 500;
-                        margin-bottom: 10px;
-                    }
-
-                    h5{
-                        font-size: 10px;
-                        font-weight: 500;
-                        line-height: 15px;
-                        color: gray;
-                    }
                 }
             }
         }
