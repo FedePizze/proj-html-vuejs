@@ -13,10 +13,6 @@
                 <ArrowButton class="pos1"></ArrowButton>
                 <ArrowButton class="pos3"></ArrowButton>
             </div>
-            
-            
-            
-            <ArrowButton class="pos3"></ArrowButton>
         </div>
 
         <div class="container">
@@ -65,15 +61,15 @@ export default {
     data() {
         return{
             imgArreyRow1: [
+                {src:"../../../public/img/h-2-port-img-1.jpg"},
                 {src:"../../../public/img/h-2-port-img-2.jpg"},
-                {src:"../../../public/img/h-2-port-img-3.jpg"},
-                {src:"../../../public/img/h-2-port-img-1.jpg"}
+                {src:"../../../public/img/h-2-port-img-3.jpg"}
             ],
 
             imgArreyRow2: [
-                {src:"../../../public/img/h-2-port-img-2.jpg"},
-                {src:"../../../public/img/h-2-port-img-3.jpg"},
-                {src:"../../../public/img/h-2-port-img-1.jpg"}
+                {src:"../../../public/img/h-2-port-img-4.jpg"},
+                {src:"../../../public/img/h-2-port-img-5.jpg"},
+                {src:"../../../public/img/h-2-port-img-6.jpg"}
             ],
 
             blogArrey: [

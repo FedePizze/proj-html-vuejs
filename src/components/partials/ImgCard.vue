@@ -1,7 +1,7 @@
 <template>
     <div id="imgCardBox">
-        <!-- <img :src="send.src" alt=""> -->
-        <img src="../../../public/img/h-2-port-img-1.jpg" alt="">
+        <img :src="send.src" alt="">
+        <!-- <img src="../../../public/img/h-2-port-img-1.jpg" alt=""> -->
         <div id="hoverInfo">
             <h3>Illustrations of Novels</h3>
             <h5>Illustration</h5>

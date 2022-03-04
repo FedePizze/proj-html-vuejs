@@ -168,8 +168,8 @@ export default {
         display: flex;
         justify-content: center;
         align-items: center;
-        gap: 15px;
-        padding: 20px 0px;
+        gap: 20px;
+        padding: 25px 0px;
 
         .dot{
             width: 8px;
